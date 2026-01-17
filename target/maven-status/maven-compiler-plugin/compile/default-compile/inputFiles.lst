@@ -1,0 +1,8 @@
+/home/ubuntu/GoatGangBot/src/main/java/com/goatgang/bot/core/GoatGangBot.java
+/home/ubuntu/GoatGangBot/src/main/java/com/goatgang/bot/games/FlowerPoker.java
+/home/ubuntu/GoatGangBot/src/main/java/com/goatgang/bot/services/AutoChatter.java
+/home/ubuntu/GoatGangBot/src/main/java/com/goatgang/bot/utils/BetParser.java
+/home/ubuntu/GoatGangBot/src/main/java/com/goatgang/bot/games/DiceGame.java
+/home/ubuntu/GoatGangBot/src/main/java/com/goatgang/bot/services/EconomyService.java
+/home/ubuntu/GoatGangBot/src/main/java/com/goatgang/bot/ui/BotGUI.java
+/home/ubuntu/GoatGangBot/src/main/java/com/goatgang/bot/services/AutomatedService.java
